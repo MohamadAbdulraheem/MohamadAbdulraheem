@@ -1,16 +1,63 @@
-### Hi there 👋
+## Hi there, I'm Mohammad Abdulraheem 👋
 
-<!--
-**MohamadAbdulraheem/MohamadAbdulraheem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack software engineer . I love programming, solving problems, playing video games and watch filmes .
 
-Here are some ideas to get you started:
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+- 🔭 I’m currently working on Frontend Technologies
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on React Projects
+- 📫 How to reach me: mohammad.o.abdulraheem@gmail.com
+  <br />
+  <br />
+
+### Connect with me
+
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
+<br />
+<br />
+
+## 🧰 Languages & Tools
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+<br />
+
+## 📚 Libraries
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+<br />
+
+## Mohammad's Github Stats
+
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAbdulraheem&count_private=true&show_icons=true&theme=dark)
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAbdulraheem&theme=dark&layout=compact)
+
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamadAbdulraheem)](https://github.com/ryo-ma/github-profile-trophy)
+
+[linkedin]: https://www.linkedin.com/in/mohammed-abdulraheem/
+[twitter]: https://twitter.com/
+[github]: https://github.com/MohamadAbdulraheem
+[telegram]: https://t.me/
+[email]: mohammad.o.abdulraheem@gmail.com

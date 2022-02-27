@@ -49,8 +49,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAbdulraheem&count_private=true&show_icons=true&theme=dark)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAbdulraheem&theme=dark&layout=compact)
-
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohamadAbdulraheem)](https://github.com/ryo-ma/github-profile-trophy)

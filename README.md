@@ -1,10 +1,10 @@
 ## Hi there, I'm Mohammad Abdulraheem 👋
 
-I am a full-stack software engineer . I love programming, solving problems, playing video games and watch filmes .
+I am a Full-Stack Software Engineer . I love programming, solving problems, playing video games and watch filmes .
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="385" height="318" />
+
 
 - 🔭 I’m currently working on Frontend Technologies
 - 🌱 I’m currently learning Node.js
